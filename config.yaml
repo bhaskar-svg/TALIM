@@ -1,0 +1,10 @@
+
+credentials:
+  usernames:
+    admin:
+      name: Admin User
+      password: '$2b$12$KIXC8T2xT3/4vjYa8l1Yle9B27iUMvhZzj9SzU9/5b9tvN1l3A0tW'  # hashed 'admin123'
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: talim_cookie
